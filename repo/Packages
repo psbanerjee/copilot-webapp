@@ -1,0 +1,16 @@
+Package: copilot-webapp
+Version: 1.0
+Architecture: amd64
+Maintainer: Partha Sarathi Banerjee <partha.ae1@gmail.com>
+Depends: chromium
+Filename: ./copilot-webapp.deb
+Size: 237352
+MD5sum: 905e68c197cbbc6a32729c232c0321bf
+SHA1: 30344faf676c3db14231d9ef0a86e55a1554601f
+SHA256: dee3006aae75b054b4948ea352ea8b5b6bc4027cd7b9fe4214aeccbe415f08c1
+Section: web
+Priority: optional
+Description: Copilot wrapper using Chromium
+ This package installs a simple launcher script and desktop entry
+ to open Microsoft Copilot in Chromium app mode.
+
